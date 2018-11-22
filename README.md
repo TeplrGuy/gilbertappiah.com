@@ -1,2 +1,2 @@
 # gilbertappiah.com
-django + uwsgi + ngnix
+django + uwsgi + nginx
